@@ -5,7 +5,7 @@ I'm a **Student** and **Python Enthusiast** passionate about turning raw data in
 ### 🛠 Tech Stack
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 - **Databases:** SQLite
-- **Tools:** Git & GitHub, Jupyter Notebooks, Microsoft Excel
+- **Tools:** QGIS, GeoDA, Git & GitHub, Jupyter Notebooks, Microsoft Excel, Stata
 
 ### 📬 How to reach me
 - **LinkedIn:** https://www.linkedin.com/in/nicolò-marcucci-8a8679302/
