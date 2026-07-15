@@ -1,30 +1,54 @@
-# Hi there, I'm Nicolò! 👋
+# Hi, I'm Nicolò! 👋
 
-I'm a **Student** and **Python Enthusiast** passionate about turning raw data into meaningful stories. I'm currently focusing on learning data analysis workflows and building tools that simplify data exploration.
+I'm an **Applied Economics and Data Analysis student** interested in data analytics, software development, and building practical solutions through technology.
 
-### 🛠 Tech Stack
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Databases:** SQLite
-- **Tools:** QGIS, GeoDA, Git & GitHub, Jupyter Notebooks, Microsoft Excel, Stata
-
-### 📬 How to reach me
-- **LinkedIn:** https://www.linkedin.com/in/nicolò-marcucci-8a8679302/
-- **Email:** marcuccinicolo8@gmail.com
+My work focuses on transforming data into insights through statistical analysis, visualization, and interactive applications.
 
 ---
-*"The goal is to turn data into information, and information into insight."*
 
-<!--
-**marcuccinicolo/marcuccinicolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+### Programming
+- Python
+- SQL
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
+- Stata
+
+### Development
+- Streamlit
+- React
+- Next.js
+- Git & GitHub
+
+### Tools & Databases
+- SQLite
+- QGIS
+- GeoDa
+- Microsoft Excel
+
+---
+
+## 🚀 Projects
+
+- **Together** — Student events platform focused on improving campus engagement through digital tools.
+- **Ricci & Capricci Website** — Responsive website developed for a local business.
+- **Data Analytics Projects** — Analysis of real-world datasets using statistical methods, visualization, and data-driven approaches.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/nicolò-marcucci-8a8679302/
+- Email: marcuccinicolo8@gmail.com
+
+---
+
+*"Turning data into insights through analysis and technology."*
