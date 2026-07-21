@@ -36,14 +36,6 @@ My work focuses on transforming data into insights through statistical analysis,
 
 ---
 
-## 🚀 Projects
-
-- **Together** — Student events platform focused on improving campus engagement through digital tools.
-- **Ricci & Capricci Website** — Responsive website developed for a local business.
-- **Data Analytics Projects** — Analysis of real-world datasets using statistical methods, visualization, and data-driven approaches.
-
----
-
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/nicolò-marcucci-8a8679302/
