@@ -41,6 +41,3 @@ My work focuses on transforming data into insights through statistical analysis,
 - LinkedIn: https://www.linkedin.com/in/nicolò-marcucci-8a8679302/
 - Email: marcuccinicolo8@gmail.com
 
----
-
-*"Turning data into insights through analysis and technology."*
